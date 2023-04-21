@@ -1,5 +1,5 @@
-# Translating financial lexicons to other languages via WordNet
-This project aims to use well-established lexicons for textual analysis in English and extend them to other languages. It relies on interlingual links between wordnets in various languages. 
+# OCR scanned pdfs in Polish
+This code is a simple OCR using tesseract to convert pdfs into plain text. It can run in just about any language, but it was tested for Polish. You need to download trained language files from https://github.com/tesseract-ocr/tessdata. More details in the code.
 This project is part of a research project title "The evolution of corporate reporting language: textual-analysis with computer methods" at Lodz University of Technology (Politechnika Łódzka) in Łódź, Poland, financed by the National Science Centre under OPUS grant scheme no. 18: 2019/35/B/HS4/03800. Project description: https://projekty.ncn.gov.pl/en/index.php?projekt_id=463826
 ## Logic of the project
 ### Create a corpus of company annual statements in Poland
